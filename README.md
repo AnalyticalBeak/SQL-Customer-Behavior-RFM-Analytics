@@ -4,7 +4,7 @@
 ![Tool](https://img.shields.io/badge/IDE-DBeaver-orange?style=flat&logo=dbeaver) 
 ![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
 
-## 📌Executive Summary
+### 📌Executive Summary
 This project analyses customer buying behaviour, profitability by channel and Recency Frequency Monetary (RFM) Segmentation. This database uses complex queries, Window functions (DENSE_RANK) and CTE's to show insights such as Customer Retention, Ranking of High Value Customers and Revenue Performance.
 ---
 
