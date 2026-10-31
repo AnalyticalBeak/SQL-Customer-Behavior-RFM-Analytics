@@ -4,8 +4,9 @@
 ![Tool](https://img.shields.io/badge/IDE-DBeaver-orange?style=flat&logo=dbeaver) 
 ![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
 
-### 📌Executive Summary
-This project analyses customer buying behaviour, profitability by channel and Recency Frequency Monetary (RFM) Segmentation. This database uses complex queries, Window functions (DENSE_RANK) and CTE's to show insights such as Customer Retention, Ranking of High Value Customers and Revenue Performance.
+### 📌 Executive Summary
+This project analyses customer buying behaviour, profitability by channel, and Recency Frequency Monetary (RFM) Segmentation. Using complex **PostgreSQL** queries, Window Functions (`DENSE_RANK`), and Common Table Expressions (CTEs), this database provides actionable insights into customer retention, ranking of high-value buyers, and channel revenue performance.
+
 ---
 
 ## 🏗️ Relational Data Model (DDL)
