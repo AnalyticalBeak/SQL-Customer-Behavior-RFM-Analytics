@@ -11,11 +11,12 @@ This project analyses customer buying behaviour, profitability by channel and Re
 ## 🏗️ Relational Data Model (DDL)
 There are 4 tables within this relational database:
 
-Customers: Customer demographics and join date by province in South Africa.
-Products: Products, Category, Price per unit.
+- **`customers`**: Customer demographics and join date by province in South Africa.
+- **`products`**: Products, Category, Price per unit.
+- **`orders`**: Orders placed, date and store channel.
+- **`order_items`**: Quantity of item purchased, discounts.
 
-Orders: Orders placed, date and store channel.
-Order Items: Quantity of item purchased, discounts.
+- 
 ---
 ## 🔍 Key Analytics & Queries
 ### 1) Executive Revenue & Profitability by Channel
