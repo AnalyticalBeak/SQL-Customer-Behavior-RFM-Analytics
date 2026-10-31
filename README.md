@@ -15,8 +15,7 @@ There are 4 tables within this relational database:
 - **`products`**: Products, Category, Price per unit.
 - **`orders`**: Orders placed, date and store channel.
 - **`order_items`**: Quantity of item purchased, discounts.
-
-- 
+  
 ---
 ## 🔍 Key Analytics & Queries
 ### 1) Executive Revenue & Profitability by Channel
